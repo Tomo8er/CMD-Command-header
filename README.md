@@ -10,7 +10,7 @@
 
 ```#include "command_macros.h"```
 
-##　使用例と注意点
+## 使用例と注意点
 
 ### REG_QUERY
 レジストリのクエリを実行します。
