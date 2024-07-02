@@ -8,7 +8,7 @@
 
 ### ヘッダーファイルのインクルード
 
-```#include "command_macros.h"```
+```#include "CMDHeader.h"```
 
 ## 使用例と注意点
 
